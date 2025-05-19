@@ -47,7 +47,7 @@ ax2.legend()
 
 # Guardar figura combinada
 plt.tight_layout()
-plt.savefig("graf_polar_cart_KN.png")
+plt.savefig('graf_polar_cart_KN.png')
 
 
 
